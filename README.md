@@ -2,7 +2,7 @@
 
 Das Repository enthält ein LaTeX-Template, das im Ergebnis den aktuellen formalen Anforderungen der IU entspricht. Das LaTeX-Dokument selbst erhebt dabei keinen Anspruch auf Vollständigkeit oder Korrektheit.
 
-Das finale Demo-Dokument findet sich [hier]().
+Das finale Demo-Dokument findet sich [hier](https://github.com/aspnetde/iu-latex-template/raw/main/template/final.pdf).
 
 # Hinweise zur Verwendung
 
